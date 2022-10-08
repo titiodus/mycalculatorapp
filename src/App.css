@@ -26,7 +26,7 @@ body,#root{
 main {
   width:375px;
   /* min-height: 100vh; */
-  background: linear-gradient(191.34deg, #17181A -4.95%, #17181A 103.74%);
+  background: linear-gradient(191.34deg, #29A8FF -4.95%, #17181A 103.74%);
   border-radius: 39px;
 }
 
